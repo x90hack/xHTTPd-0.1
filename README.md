@@ -1,6 +1,7 @@
 ## xHTTPd-0.1 Project OSS<br>
 
 <br>
+오픈소스 개발자 정경주님이 해커 정경주님입니다.<br>
 It's world wide open source platform for web infrastruct for secured environ.<br>
 I'm a hacker. my name is KyongJu, Jung. and korean.<br>
 Thanks.<br>
